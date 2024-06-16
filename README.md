@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Uday Kiran Gedela
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=UdayKiran112&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/UdayKiran112?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/UdayKiran112?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
