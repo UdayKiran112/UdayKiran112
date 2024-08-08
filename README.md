@@ -8,6 +8,10 @@
 
 I'm a passionate and dedicated developer with a keen interest in blockchain development and cybersecurity. I specialize in programming with C, C++, Python, HTML, and CSS. Additionally, I have experience in machine learning and working with Python libraries like Scikit-learn and Keras.
 
+- 🔍 Exploring the intersection of **blockchain** and **cybersecurity**.
+- 🎓 Final year B.Tech. student at **NIT Calicut**, specializing in **Computer Science and Engineering**.
+- 💼 Currently looking for opportunities to collaborate on impactful projects.
+
 ## 🛠️ Skills
 
 - **Languages**: 
@@ -21,9 +25,21 @@ I'm a passionate and dedicated developer with a keen interest in blockchain deve
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 - **Interests**: Blockchain Development, Cybersecurity
 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ## 🎯 Projects
 
 I'm currently working on some exciting projects. Stay tuned for more updates!
+
+## 🏆 Achievements
+
+- 🎉 **Code Vipassana Season 6**: Completed a series of sessions on Data to AI applications with Gemini and Gemma models, earning a certificate for exceptional performance.
+- 🥇 **J.P. Morgan Software Engineering Virtual Experience**: Gained hands-on experience in financial technology development and live data visualization.
+- 📜 **NIT Calicut**: Final year B.Tech. student, actively involved in projects that push the boundaries of technology.
 
 ## 📫 Contact Me
 
