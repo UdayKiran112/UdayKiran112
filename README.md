@@ -43,7 +43,7 @@ I'm currently working on some exciting projects. Stay tuned for more updates!
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [Uday Kiran Gedela](https://www.linkedin.com/in/uday-gedela-831b94248/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)
+- **LinkedIn**: [Uday Kiran Gedela](https://www.linkedin.com/in/uday-kiran-gedela/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)
 - **Email**: [udaykiranuk1126@gmail.com](mailto:udaykiranuk1126@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 
 ## 🌟 GitHub Stats
